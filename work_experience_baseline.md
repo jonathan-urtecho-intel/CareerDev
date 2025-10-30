@@ -1015,6 +1015,8 @@ This document captures your complete work experience to serve as the foundation 
 - **June 2024:** Meteor Lake Scan Innovation (2,500 points) - 15-second test time reduction
 - **April 2021:** Tiger Lake Revenue Impact (5,000 points) - Enabled ~17M TGL shipments
 - **June 2022:** End-of-Life/Beginning-of-Life Excellence (5,000 points) - TGL EOL, MTL BOL
+- **Q2 2015:** **ICF Divisional Recognition Award** - Amber Cay chain stuck-at FI/FA root cause analysis
+- **2014:** **🏆 Xeon Server Innovation Recognition** - 18-core, 5.5B transistor, first server FIVR, DDR4 2133MHz, 40% performance breakthrough
 
 **Crisis Management & Problem Solving:**
 - **September 2025:** Late-night VDDQ clamp debug for HX Power On (250 points)
