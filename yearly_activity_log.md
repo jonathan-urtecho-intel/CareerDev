@@ -1,3 +1,11 @@
+# Tours of Duty
+
+TOD: Cedar Mill Component Debug - Oregon - nov'24 to jan'25
+
+TOD: Pentium3 Interposer2/Interposer3 Package Technology Development - ATTD - Arizona - jul'99 to may'00
+
+TOD: I/O Bench DV - Nehalem/Gainstown - CCDO - Oregon
+
 # 2007
 
 This document is for explicit, personal notes about things you did in specific years. Use it to record detailed memories, events, and accomplishments for each year. 
